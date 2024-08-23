@@ -59,3 +59,13 @@ ul li{
 ul li.checked{
     text-decoration: line-through;
 }
+ul li button{
+    position: absolute;
+    right: 75px;
+    background-color: #ff1900;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px 5px;
+}
